@@ -25,7 +25,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-  customHeadHTML: "<script defer src="https://a.iptv-web.app/script.js" data-website-id="59c94f28-261e-493e-93b9-d81ea998a167"></script>"
+  customHeadHTML: <script defer src="https://a.iptv-web.app/script.js" data-website-id="59c94f28-261e-493e-93b9-d81ea998a167"></script>
 
 user-agent: Mravuri96
 # Upptime also supports notifications, assigning issues, and more
