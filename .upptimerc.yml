@@ -1,6 +1,7 @@
 # Change these first
 owner: Mravuri96 # Your GitHub organization or username, where this repository lives
 repo: uptime # The name of this repository
+user-agent: Mravuri96
 
 sites:
   - name: Portfolio
@@ -29,8 +30,10 @@ status-website:
       href: /uptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-  customHeadHTML: '<script defer src="https://a.iptv-web.app/script.js" data-website-id="59c94f28-261e-493e-93b9-d81ea998a167"></script>'
+  script: 
+    - src: https://a.iptv-web.app/script.js
+      defer: true
+      data-website-id: 59c94f28-261e-493e-93b9-d81ea998a167
 
-user-agent: Mravuri96
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
