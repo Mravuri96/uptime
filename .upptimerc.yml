@@ -4,15 +4,10 @@ repo: uptime # The name of this repository
 user-agent: Mravuri96
 
 sites:
-  - name: Portfolio
-    url: https://maheshwarravuri.com/
   - name: IPTV
     url: https://iptv-web.app/
   - name: FlyX
     url: https://flyx.io/
-  - name: FlyX API
-    check: globalping
-    url: https://edge.flyx.io/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -29,10 +24,6 @@ status-website:
       href: /uptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-  script: 
-    - src: https://a.iptv-web.app/script.js
-      defer: true
-      data-website-id: 59c94f28-261e-493e-93b9-d81ea998a167
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
