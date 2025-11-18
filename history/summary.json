@@ -4,18 +4,20 @@
     "url": "https://iptv-web.app/",
     "icon": "https://icons.duckduckgo.com/ip3/iptv-web.app.ico",
     "slug": "iptv",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "92.69%",
+    "uptimeWeek": "98.96%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.91%",
     "time": 224,
-    "timeDay": 148,
-    "timeWeek": 229,
+    "timeDay": 172,
+    "timeWeek": 228,
     "timeMonth": 229,
     "timeYear": 224,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-18": 105
+    }
   },
   {
     "name": "FlyX",
