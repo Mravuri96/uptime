@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/iptv-web.app.ico",
     "slug": "iptv",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 192,
-    "timeDay": 132,
-    "timeWeek": 120,
-    "timeMonth": 119,
+    "timeDay": 169,
+    "timeWeek": 132,
+    "timeMonth": 123,
     "timeYear": 192,
     "dailyMinutesDown": {
       "2025-11-18": 105
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 240,
-    "timeDay": 92,
-    "timeWeek": 217,
-    "timeMonth": 247,
-    "timeYear": 240,
+    "time": 241,
+    "timeDay": 396,
+    "timeWeek": 239,
+    "timeMonth": 252,
+    "timeYear": 241,
     "dailyMinutesDown": {}
   }
 ]
