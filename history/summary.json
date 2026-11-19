@@ -28,17 +28,19 @@
     "url": "https://flyx.io/",
     "icon": "https://icons.duckduckgo.com/ip3/flyx.io.ico",
     "slug": "fly-x",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 255,
-    "timeDay": 284,
-    "timeWeek": 189,
-    "timeMonth": 256,
-    "timeYear": 253,
-    "dailyMinutesDown": {}
+    "timeDay": 168,
+    "timeWeek": 172,
+    "timeMonth": 250,
+    "timeYear": 252,
+    "dailyMinutesDown": {
+      "2026-11-19": 0
+    }
   }
 ]
